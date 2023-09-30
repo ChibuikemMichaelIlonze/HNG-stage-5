@@ -1,5 +1,5 @@
-import headerImg from "../../assets/landingPage/headerImg.jpg";
-import arrowIcon from "../../assets/icons/arrowRight.svg";
+import headerImg from "../../assets/headerImg.jpg";
+import arrowIcon from "../../assets/icons/arrow-right.svg";
 
 const Hero = () => {
   return (

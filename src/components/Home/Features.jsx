@@ -2,7 +2,7 @@ import simple_icon from "../../assets/icons/simple_icon.svg"
 import easy from "../../assets/icons/easy.svg"
 import revisit from "../../assets/icons/revisit.svg"
 
-import videoProfile from "../../assets/landingPage/VideoRepository.svg"
+import videoProfile from "../../assets/VideoRepository.svg"
 
 
 const Features = () => {
