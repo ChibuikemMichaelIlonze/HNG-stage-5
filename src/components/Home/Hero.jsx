@@ -14,7 +14,7 @@ const Hero = () => {
             how to get things done on a website.
           </p>
           <a
-            href="/"
+            href="https://drive.google.com/drive/folders/1g2nCZSnTpSHxtIgG0-M9ELxc0g0raGEi?usp=drive_link"
             className="bg-dark_blue text-white w-fit flex gap-3 px-5 py-4 rounded-md"
           >
             Install HelpMeOut
