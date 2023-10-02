@@ -2,7 +2,7 @@ const SignUp = () => {
   return (
 		<section className="flex flex-col gap-8">
 
-            {/* email input */}
+      
 			<span className="flex flex-col gap-4">
 				<label className="font-work_sans text-dark_black">Email</label>
 				<input
@@ -12,7 +12,6 @@ const SignUp = () => {
 				/>
 			</span>
 
-            {/* password input */}
 			<span className="flex flex-col gap-4">
 				<label className="font-work_sans text-dark_black">Password</label>
 				<input
