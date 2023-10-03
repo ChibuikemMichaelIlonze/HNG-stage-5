@@ -4,7 +4,7 @@ HelpMeOut Chrome Extension
 Table of Contents
 Introduction
 Features
-Installation
+
 Usage
 Transcription
 Contributing
